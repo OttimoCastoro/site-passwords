@@ -1,0 +1,164 @@
+Uri: https://api.fontshare.com/v2/css?f[]=switzer@400,500,700&display=swap
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\v2\css
+Content Type: text/css
+
+Uri: https://cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII\ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV\6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII\ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV\6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII/ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV/6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\BLNB4FAQFNK56DWWNF7PMGTCOTZHOEII\ST3WKSSDMBK2MIQQO3MAVYWLF4FTOLFV\6IN5WOLRCYP4G4MOCOHOMXNON6Q7MDAR.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q\YDPDINVT673XLXNSTMLG4JNCZZMVVNPN\Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q\YDPDINVT673XLXNSTMLG4JNCZZMVVNPN\Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q\YDPDINVT673XLXNSTMLG4JNCZZMVVNPN\Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff
+Content Type: font/woff
+
+Uri: https://cdn.fontshare.com/wf/OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S/WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS/6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\wf\OYB4CXKJQXKTNSLJMTDQOIVUL2V5EL7S\WYO2P7DQVV5RNXGMCUO2HL4RJP4VFUAS\6XPIMU23OJVRY676OG5YVJMWEHWICATX.woff2
+Content Type: font/woff2
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.13.1/font/bootstrap-icons.min.css
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\bootstrap-icons\1.13.1\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.13.1/font/fonts/bootstrap-icons.woff2?e34853135f9e39acf64315236852cd5a
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\bootstrap-icons\1.13.1\font\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.13.1/font/fonts/bootstrap-icons.woff?e34853135f9e39acf64315236852cd5a
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\bootstrap-icons\1.13.1\font\fonts\bootstrap-icons.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.7/css/bootstrap.min.css
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\bootstrap\5.3.7\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.7/js/bootstrap.bundle.min.js
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\bootstrap\5.3.7\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-v4compatibility.ttf
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/webfonts/fa-v4compatibility.woff2
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\ajax\libs\font-awesome\6.7.2\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://haveibeenpwned.com/apple-touch-icon-120x120.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/apple-touch-icon-152x152.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/apple-touch-icon-180x180.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/apple-touch-icon-57x57.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/apple-touch-icon-76x76.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/apple-touch-icon.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/css/main.css?v=9kG-N7hqQ649FClrZE4JRgmPzXjJCeyUzjTY3B7vBhI
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\css\main.css
+Content Type: text/css
+
+Uri: https://haveibeenpwned.com/favicon-96x96.png
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/favicon.ico
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://haveibeenpwned.com/favicon.svg
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://haveibeenpwned.com/Images/HibpLogo.svg?v=auCogWYBSS45qvj-_t-GnJHpExqbnRtmvHRMe6QxZJE
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\Images\HibpLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://haveibeenpwned.com/Images/Logos/CloudflareLogo.png?v=R89uIwEdTJdetvHHxb8bW_mQPjWwWdfpSkj7s2qONMs
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\Images\Logos\CloudflareLogo.png
+Content Type: image/png
+
+Uri: https://haveibeenpwned.com/Images/Maps/CloudflareMap.svg?v=24vAsJEadaoQOjiw3HEFs6V4RgEGtJrtf8tOBeetE68
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\Images\Maps\CloudflareMap.svg
+Content Type: image/svg+xml
+
+Uri: https://haveibeenpwned.com/Images/PartnerLogos/1Password.svg?v=XkBm2ucG374VlX0dq_JDvvP6eOx9sI7czpi49eT2QzU
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\Images\PartnerLogos\1Password.svg
+Content Type: image/svg+xml
+
+Uri: https://haveibeenpwned.com/js/bundle/bundle.js?v=AzICztY47OlRpg3ys2q4Pm3so8Q70ZHbpSYjFwpytWE
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\js\bundle\bundle.js
+Content Type: text/javascript
+
+Uri: https://haveibeenpwned.com/Passwords
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\Passwords.html
+Content Type: text/html
+
+Uri: https://haveibeenpwned.com/site.webmanifest?v=tlOw2W1Wz0FBvJhxLuYAn03PU1xmcNTNUNbCyjw6Cg4
+File Name: C:\Users\Utente\Desktop\siti copiati\haveibeenpwned.com\site.webmanifest
+Content Type: application/manifest+json
+
